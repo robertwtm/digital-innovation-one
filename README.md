@@ -1,7 +1,9 @@
-# Livro de receitas:woman_cook:		
+# Cursos realizados na dio.me :man_student:	
 
-Olá ! Bem vindo ao meu livro de receitas :wave:	
+Olá, seja bem vindo !:wave:
 
-- Strogonoff de Frango
-- Pavê
-- testando
+Estes são os cursos concluídos;	
+
+- introducao-ao-git-e-ao-github
+
+  
