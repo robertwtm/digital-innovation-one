@@ -5,6 +5,9 @@ Estes são os cursos concluídos;
 
 - introducao-ao-git-e-ao-github: [Certificado](https://certificates.digitalinnovation.one/9A107285)
 
+- logica-de-programacao-essencial: [Certificado](https://certificates.digitalinnovation.one/1BCDB2CD)
+
+  
   
   
   
