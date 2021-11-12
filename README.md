@@ -1,4 +1,4 @@
-# Cursos realizados na dio.me :man_student:	
+# Cursos realizados na plataforma dio.me :man_student:	
 
 Olá, seja bem vindo !:wave:
 
