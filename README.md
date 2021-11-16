@@ -7,7 +7,8 @@ Estes são os cursos concluídos;
 
 - logica-de-programacao-essencial: [Certificado](https://certificates.digitalinnovation.one/1BCDB2CD)
 
-  
-  
-  
+- aprenda-o-que-sao-estrutura-de-dados-e-algoritmos: [Certificado](https://certificates.digitalinnovation.one/A229FDFD)
+
+- 
+
   
