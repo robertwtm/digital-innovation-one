@@ -1,8 +1,5 @@
 package poo.model;
 
-import javax.management.RuntimeErrorException;
-import javax.swing.text.TableView.TableRow;
-
 public class Pessoa {
 
 	private static final int TAMANHO_CPF = 11;

@@ -9,7 +9,7 @@ Estes são os cursos concluídos;
 
 - aprenda-o-que-sao-estrutura-de-dados-e-algoritmos: [Certificado](https://certificates.digitalinnovation.one/A229FDFD)
 
-- introducao-a-arientacao-a-objetos-com-java: [Certificado](https://certificates.digitalinnovation.one/891DEE81)
+- introducao-a-orientacao-a-objetos-com-java: [Certificado](https://certificates.digitalinnovation.one/891DEE81)
 
 - 
 
