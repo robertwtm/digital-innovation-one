@@ -13,6 +13,10 @@ Estes são os cursos concluídos;
 
 - criando-seu-Primeiro-repositorio-no-github-para-compartilhar-seu-progresso: [Certificado](https://certificates.digitalinnovation.one/E356DCB4)
 
+- dominando-ides-java: [Certificado](https://certificates.digitalinnovation.one/095F8ABF)
+
+- variaveis-tipos-de-dados-e-operadores-matematicos-em-java: [Certificado](https://certificates.digitalinnovation.one/607B921B)
+
 - 
 
   
