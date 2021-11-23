@@ -54,12 +54,12 @@ public class MainVariaveis2 {
 		System.out.println(dt1);
 		System.out.println(bo1);
 		System.out.println(bo2);
-		
+
 		int soma = 0;
-		int i=3;
-		
+		int i = 3;
+
 		soma = 10 - 5 * 2 + --i;
-		
+
 		System.out.println(soma);
 
 	}
