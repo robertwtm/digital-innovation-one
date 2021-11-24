@@ -17,6 +17,8 @@ Estes são os cursos concluídos;
 
 - variaveis-tipos-de-dados-e-operadores-matematicos-em-java: [Certificado](https://certificates.digitalinnovation.one/607B921B)
 
+- logica-condicional-e-controle-de-fluxos-em-java: [Certificado](https://certificates.digitalinnovation.one/2BD79C10)
+
 - 
 
   
