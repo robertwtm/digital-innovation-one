@@ -19,6 +19,8 @@ Estes são os cursos concluídos;
 
 - logica-condicional-e-controle-de-fluxos-em-java: [Certificado](https://certificates.digitalinnovation.one/2BD79C10)
 
+- estruturas-de-repeticao-e-arrays-em-java: [Certificado](https://certificates.digitalinnovation.one/771F006F)
+
 - 
 
   
