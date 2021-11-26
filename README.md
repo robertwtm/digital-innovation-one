@@ -23,7 +23,7 @@ Estes são os cursos concluídos;
 
 - reforcando-o-conceito-de-lacos-em-java: [Certificado](https://certificates.digitalinnovation.one/B251DE4D)
 
-- 
+- resolvendo-desafios-de-codigo-em-java: [Certificado](https://certificates.digitalinnovation.one/AD94E9D3)
 
 - 
 
