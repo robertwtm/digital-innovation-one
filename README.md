@@ -21,6 +21,8 @@ Estes são os cursos concluídos;
 
 - estruturas-de-repeticao-e-arrays-em-java: [Certificado](https://certificates.digitalinnovation.one/771F006F)
 
-- Tes
+- reforcando-o-conceito-de-lacos-em-java: [Certificado](https://certificates.digitalinnovation.one/B251DE4D)
+
+- 
 
   
