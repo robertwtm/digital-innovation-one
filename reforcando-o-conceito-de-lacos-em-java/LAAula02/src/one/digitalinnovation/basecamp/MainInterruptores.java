@@ -3,7 +3,7 @@ package one.digitalinnovation.basecamp;
 /**
  * Classe de exemplo para o exercício da Aula 2 de Loops e Arrays.
  */
-public class Main {
+public class MainInterruptores {
 
     public static void main(String[] args) {
 
