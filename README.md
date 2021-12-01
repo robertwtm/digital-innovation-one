@@ -25,6 +25,8 @@ Estes são os cursos concluídos;
 
 - resolvendo-desafios-de-codigo-em-java: [Certificado](https://certificates.digitalinnovation.one/AD94E9D3)
 
-- 
+- entendendo-metodos-java: [Certificado](https://certificates.digitalinnovation.one/D27CA8C6)
+
+-
 
   
