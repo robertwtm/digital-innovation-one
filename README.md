@@ -35,11 +35,6 @@ Estes são os cursos concluídos;
 
 - estruturas-de-dados-em-java: Árvores: [Certificado] (https://certificates.digitalinnovation.one/45B7D697)
 
--  estruturas-de-dados-em-java: Principais Implementações: [Certificado] (https://certificates.digitalinnovation.one/118B3E07)
+- estruturas-de-dados-em-java: Principais Implementações: [Certificado] (https://certificates.digitalinnovation.one/118B3E07)
 
--  
-
-
-
-
-  
+- 
