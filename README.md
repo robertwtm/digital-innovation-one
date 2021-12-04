@@ -37,4 +37,6 @@ Estes são os cursos concluídos;
 
 - estruturas-de-dados-em-java: Principais Implementações: [Certificado] (https://certificates.digitalinnovation.one/118B3E07)
 
+- Estrutura de dados em Java: [Certificado] (https://certificates.digitalinnovation.one/75A6E022)
+
 - 
