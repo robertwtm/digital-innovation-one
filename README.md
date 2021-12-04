@@ -27,6 +27,13 @@ Estes são os cursos concluídos;
 
 - entendendo-metodos-java: [Certificado](https://certificates.digitalinnovation.one/D27CA8C6)
 
--
+- estruturas-de-dados-em-java: Introdução: [Certificado] (https://certificates.digitalinnovation.one/753A0DD9)
+
+- estruturas-de-dados-em-java: Pilhas e Filas: [Certificado] (https://certificates.digitalinnovation.one/0D40AAEA)
+
+- estruturas-de-dados-em-java:
+
+
+
 
   
