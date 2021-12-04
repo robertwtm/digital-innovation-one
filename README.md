@@ -31,7 +31,9 @@ Estes são os cursos concluídos;
 
 - estruturas-de-dados-em-java: Pilhas e Filas: [Certificado] (https://certificates.digitalinnovation.one/0D40AAEA)
 
-- estruturas-de-dados-em-java:
+- estruturas-de-dados-em-java: Listas: [Certificado] (https://certificates.digitalinnovation.one/AC7D291C)
+
+- 
 
 
 
