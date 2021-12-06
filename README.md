@@ -27,18 +27,18 @@ Estes são os cursos concluídos;
 
 - entendendo-metodos-java: [Certificado](https://certificates.digitalinnovation.one/D27CA8C6)
 
-- estruturas-de-dados-em-java: Introdução: [Certificado] (https://certificates.digitalinnovation.one/753A0DD9)
+- estruturas-de-dados-em-java: Introdução: [Certificado](https://certificates.digitalinnovation.one/753A0DD9)
 
-- estruturas-de-dados-em-java: Pilhas e Filas: [Certificado] (https://certificates.digitalinnovation.one/0D40AAEA)
+- estruturas-de-dados-em-java: Pilhas e Filas: [Certificado](https://certificates.digitalinnovation.one/0D40AAEA)
 
-- estruturas-de-dados-em-java: Listas: [Certificado] (https://certificates.digitalinnovation.one/AC7D291C)
+- estruturas-de-dados-em-java: Listas: [Certificado](https://certificates.digitalinnovation.one/AC7D291C)
 
-- estruturas-de-dados-em-java: Árvores: [Certificado] (https://certificates.digitalinnovation.one/45B7D697)
+- estruturas-de-dados-em-java: Árvores: [Certificado](https://certificates.digitalinnovation.one/45B7D697)
 
-- estruturas-de-dados-em-java: Principais Implementações: [Certificado] (https://certificates.digitalinnovation.one/118B3E07)
+- estruturas-de-dados-em-java: Principais Implementações: [Certificado](https://certificates.digitalinnovation.one/118B3E07)
 
-- estrutura-de-dados-em-java: [Certificado] (https://certificates.digitalinnovation.one/75A6E022)
+- estrutura-de-dados-em-java: [Certificado](https://certificates.digitalinnovation.one/75A6E022)
 
-- debugging-java: [Certificado] (https://certificates.digitalinnovation.one/AB78B2BA)
+- debugging-java: [Certificado](https://certificates.digitalinnovation.one/AB78B2BA)
 
 - 
