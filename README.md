@@ -41,4 +41,10 @@ Estes são os cursos concluídos;
 
 - debugging-java: [Certificado](https://certificates.digitalinnovation.one/AB78B2BA)
 
+- exceptions-java: [Certificado](https://certificates.digitalinnovation.one/FC26308A)
+
+- collection-java: [Certificado](https://certificates.digitalinnovation.one/DAFEC2F9)
+
+- introducao-a-microsservicos: [Certificado](https://certificates.digitalinnovation.one/BD15E1B6)
+
 - 

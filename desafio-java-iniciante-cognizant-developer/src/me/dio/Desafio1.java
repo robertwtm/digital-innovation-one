@@ -22,14 +22,7 @@ import java.util.Scanner;
 
 public class Desafio1 {
 	public static void main(String[] args) throws IOException {
-    	Scanner leitor = new Scanner(System.in);
-    	int tempo = leitor.nextInt();
-    	int tempoA = leitor.nextInt();
-    	int tempoB = leitor.nextInt();
-    	if (tempoA + tempoB > tempo)
-    		System.out.println("Deixa para amanha!");
-    	else
-    		System.out.println("Farei hoje!");
-    }
-	
+		int[][] numeros = {{4, 9, 8, 5}, {3, 0, 1, 5}, {1, 2, 7, 4}};
+		System.out.print(numeros[2][2]);
+	}
 }
