@@ -47,4 +47,6 @@ Estes são os cursos concluídos;
 
 - introducao-a-microsservicos: [Certificado](https://certificates.digitalinnovation.one/BD15E1B6)
 
+- introducao-a-qualidade-de-software: [Certificado](https://certificates.digitalinnovation.one/5B912287)
+
 - 
