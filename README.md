@@ -49,4 +49,6 @@ Estes são os cursos concluídos;
 
 - introducao-a-qualidade-de-software: [Certificado](https://certificates.digitalinnovation.one/5B912287)
 
+- aprenda-a-aplicar-testes-com-java: [Certificado](https://certificates.digitalinnovation.one/B9971C48)
+
 - 
