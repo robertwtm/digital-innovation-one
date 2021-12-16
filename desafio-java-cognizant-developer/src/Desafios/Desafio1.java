@@ -10,22 +10,20 @@ A entrada consiste de uma linha contendo os valores dos três créditos A, B e C
 Saída
 Seu programa deve imprimir uma linha contendo o caracter “S” se é poss ível viajar e voltar para o presente, ou “N” caso contrário.
 */
-
-package me.dio.web.desafiojavacognizantdeveloper.desafios;
+package Desafios;
 
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Desafio01 {
+public class Desafio1 {
 	public static void main(String[] args) throws IOException {
 		Scanner leitor = new Scanner(System.in);
-		int a = leitor.nextInt();
-		int b = leitor.nextInt();
-		int c = leitor.nextInt();
-		if (a + b == c || a + c == b || b + c == a || a - c == b || a - b == c || b - c == a) // complete com o código
-																								// nos espaços em branco
+		int A = leitor.nextInt();
+		int B = leitor.nextInt();
+		int C = leitor.nextInt();
+	  if (A == B || B == C || A == C || A+B==C || A+C==B || B+C ==A)  //complete com o código nos espaços em branco
 			System.out.println("S");
-		else
+		else 
 			System.out.println("N");
 	}
 }
