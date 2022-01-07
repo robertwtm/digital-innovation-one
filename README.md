@@ -51,4 +51,4 @@ Estes são os cursos concluídos;
 
 - aprenda-a-aplicar-testes-com-java: [Certificado](https://certificates.digitalinnovation.one/B9971C48)
 
-- 
+- implementado-collections-e-streams-com-java: [Certificado](https://certificates.digitalinnovation.one/AA9EF9D5)
