@@ -56,3 +56,7 @@ Estes são os cursos concluídos;
 - abstraindo-um-bootcamp-usando-orientacao-a-objetos-em-java : [Certificado](https://certificates.digitalinnovation.one/6EDBE8E1)
 
 - sql-server-criando-suas-primeiras-consultas : [Certificado](https://certificates.digitalinnovation.one/B9408E55)
+
+- modelando-um-banco-de-dados-na-pratica-com-sql-server : [Certificado](https://certificates.digitalinnovation.one/03FF0CEB)
+
+- 
