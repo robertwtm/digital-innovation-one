@@ -53,4 +53,6 @@ Estes são os cursos concluídos;
 
 - implementado-collections-e-streams-com-java: [Certificado](https://certificates.digitalinnovation.one/AA9EF9D5)
 
-- abstraindo-um-bootcamp-usando-orientacao-a-objetos-em-java : [Certificado](https://certificates.digitalinnovation.one/6EDBE8E1) 
+- abstraindo-um-bootcamp-usando-orientacao-a-objetos-em-java : [Certificado](https://certificates.digitalinnovation.one/6EDBE8E1)
+
+- sql-server-criando-suas-primeiras-consultas : [Certificado](https://certificates.digitalinnovation.one/B9408E55)
