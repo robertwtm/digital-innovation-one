@@ -59,4 +59,6 @@ Estes são os cursos concluídos;
 
 - modelando-um-banco-de-dados-na-pratica-com-sql-server : [Certificado](https://certificates.digitalinnovation.one/03FF0CEB)
 
-- 
+- sql-server-boas-praticas-em-bancos-relacionais : [Certificado](https://certificates.digitalinnovation.one/6F1F2CFB)
+
+- introducao-a-apis-e-metodos-http: 
