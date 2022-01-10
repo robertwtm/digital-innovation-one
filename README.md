@@ -61,4 +61,4 @@ Estes são os cursos concluídos;
 
 - sql-server-boas-praticas-em-bancos-relacionais : [Certificado](https://certificates.digitalinnovation.one/6F1F2CFB)
 
-- introducao-a-apis-e-metodos-http: 
+- introducao-a-apis-e-metodos-http: [Certificado](https://certificates.digitalinnovation.one/830B8596)
