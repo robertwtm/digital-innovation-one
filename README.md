@@ -64,3 +64,7 @@ Estes são os cursos concluídos;
 - introducao-a-apis-e-metodos-http: [Certificado](https://certificates.digitalinnovation.one/830B8596)
 
 - introducao-ao-framework-spring-boot: [Certificado](https://certificates.digitalinnovation.one/E48E578D)
+
+- simplificando-projetos-java-com-o-spring-boot: [Certificado](https://certificates.digitalinnovation.one/CD90DD23)
+
+-  
