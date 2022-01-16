@@ -68,5 +68,3 @@ Estes são os cursos concluídos;
 - simplificando-projetos-java-com-o-spring-boot: [Certificado](https://certificates.digitalinnovation.one/CD90DD23)
 
 - introducao-aos-conceitos-de-API-e-clean-architecture: [Certificado](https://certificates.digitalinnovation.one/71F3F7F8)
-
-
