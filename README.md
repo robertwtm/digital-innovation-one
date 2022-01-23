@@ -68,3 +68,9 @@ Estes são os cursos concluídos;
 - simplificando-projetos-java-com-o-spring-boot: [Certificado](https://certificates.digitalinnovation.one/CD90DD23)
 
 - introducao-aos-conceitos-de-API-e-clean-architecture: [Certificado](https://certificates.digitalinnovation.one/71F3F7F8)
+
+- desenvolvendo-um-sistema-de-gerenciamento-de-pessoas-em-APIREST-com-Spring-Boot: [Certificado](https://certificates.digitalinnovation.one/20421070)
+
+- desenvolvimento-de-testes-unitarios-para-validar-uma-APIREST-de-gerenciamento-estoques-de-cerveja: [Certificado](https://certificates.digitalinnovation.one/F09F6B72)
+
+- Spread-Java-Developer: [Certificado](https://certificates.digitalinnovation.one/827988FF)
